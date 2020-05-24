@@ -1,4 +1,7 @@
 xception_model
 mobile_net_model
+.vscode
+.idea
+.gitignore~
 
 
